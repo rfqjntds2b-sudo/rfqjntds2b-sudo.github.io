@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://rfqjntds2b-sudo.github.io/sitemap.xml
+Sitemap: https://rfqjntds2b-sudo.github.io/sitemap-index.xml
